@@ -1,4 +1,4 @@
-Welcome
+Welcome - to git training
 function bug123()
 {
 }
